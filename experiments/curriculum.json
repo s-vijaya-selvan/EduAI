@@ -1,0 +1,7 @@
+{
+    "grade": 10,
+    "subject": "Mathematics",
+    "chapter": "Quadratic Equations",
+    "concept": "Introduction",
+    "prerequisites": ["linear equations", "factorisation"]
+}
