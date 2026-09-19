@@ -1,0 +1,65 @@
+Total simulation rows:
+720
+
+Sample:
+student_type  assessment  performance  learning_rate  old_mastery  new_mastery
+   improving           1         0.30            0.1     0.500000     0.480000
+   improving           2         0.35            0.1     0.480000     0.467000
+   improving           3         0.40            0.1     0.467000     0.460300
+   improving           4         0.38            0.1     0.460300     0.452270
+   improving           5         0.45            0.1     0.452270     0.452043
+   improving           6         0.50            0.1     0.452043     0.456839
+   improving           7         0.48            0.1     0.456839     0.459155
+   improving           8         0.55            0.1     0.459155     0.468239
+   improving           9         0.60            0.1     0.468239     0.481415
+   improving          10         0.58            0.1     0.481415     0.491274
+   improving          11         0.65            0.1     0.491274     0.507146
+   improving          12         0.68            0.1     0.507146     0.524432
+   improving          13         0.70            0.1     0.524432     0.541989
+   improving          14         0.72            0.1     0.541989     0.559790
+   improving          15         0.75            0.1     0.559790     0.578811
+   improving          16         0.78            0.1     0.578811     0.598930
+   improving          17         0.80            0.1     0.598930     0.619037
+   improving          18         0.82            0.1     0.619037     0.639133
+   improving          19         0.85            0.1     0.639133     0.660220
+   improving          20         0.88            0.1     0.660220     0.682198
+
+FINAL MASTERY
+
+student_type  learning_rate  new_mastery
+   improving            0.1     0.682198
+   improving            0.2     0.774300
+   improving            0.3     0.816837
+   improving            0.4     0.838781
+   improving            0.5     0.851970
+   improving            0.6     0.860916
+   improving            0.7     0.867497
+   improving            0.8     0.872596
+   improving            0.9     0.876678
+      strong            0.1     0.854313
+      strong            0.2     0.902158
+      strong            0.3     0.908817
+      strong            0.4     0.910880
+      strong            0.5     0.912473
+      strong            0.6     0.913974
+      strong            0.7     0.915399
+      strong            0.8     0.916783
+      strong            0.9     0.918244
+  struggling            0.1     0.374539
+  struggling            0.2     0.358052
+  struggling            0.3     0.355603
+  struggling            0.4     0.354688
+  struggling            0.5     0.354071
+  struggling            0.6     0.353750
+  struggling            0.7     0.353912
+  struggling            0.8     0.354817
+  struggling            0.9     0.356751
+inconsistent            0.1     0.570195
+inconsistent            0.2     0.564964
+inconsistent            0.3     0.548248
+inconsistent            0.4     0.527905
+inconsistent            0.5     0.504499
+inconsistent            0.6     0.477887
+inconsistent            0.7     0.447818
+inconsistent            0.8     0.413838
+inconsistent            0.9     0.375081
