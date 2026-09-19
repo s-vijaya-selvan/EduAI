@@ -1,0 +1,28 @@
+{
+    "board_scope": [
+        "CBSE",
+        "Tamil Nadu State Board"
+    ],
+    "grade":10,
+    "subject":"Mathematics",
+    "chapter_id":
+    "G10_MATH_QUADRATIC",
+    "chapter":"Quadratic Equations",
+    "languages":[
+        "en",
+        "ta"
+    ],
+    "concepts": [
+        {
+            "concept_id": "QE001",
+            "name_en":"Introduction to Quadratic Equations",
+            "name_ta": "இருபடிச் சமன்பாடுகள் அறிமுகம்",
+            "prerequistes": [
+                "algebraic expressions",
+                "linear equations",
+                "factorization"
+            ],
+            "mastery_threshold": 0.8
+        }
+    ]
+}
